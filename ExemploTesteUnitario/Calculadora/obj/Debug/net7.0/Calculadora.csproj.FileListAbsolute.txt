@@ -1,0 +1,15 @@
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Users\laril\OneDrive\Documentos\DIO\Curso - Testes Unitários com CSharp\ExemploTesteUnitario\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
